@@ -1,0 +1,7 @@
+{
+  "dev": {
+    "driver": "pg",
+    "host": "paymaya-customer-vault-test.c33qfugmgfzn.ap-southeast-1.rds.amazonaws.com",
+    "database": "paymaya_customer_vault_test"
+  }
+}
